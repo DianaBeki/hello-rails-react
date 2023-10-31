@@ -10,7 +10,6 @@
 
 ## 📗 Table of Contents
 
-- [📖 hello-rails-react ](#-Create a hello-rails-react-app in RubyonRails-React )
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
